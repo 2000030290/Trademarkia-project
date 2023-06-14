@@ -1,7 +1,7 @@
 # Trademarkia-project
 AI Engineer Task -  Class Recommendation System
 
-Creating an AI model to recommend trademark classes based on goods and services entered by the user. The code utilizes the USPTO ID manual dataset and exposes a REST API for integration.
+Creating an AI model to recommend trademark classes based on goods and services entered by the user. The code utilizes the USPTO ID manual dataset and exposes a REST API for integration with flask framework.
 
 Now, the /recommend route will accept both GET and POST requests. GET requests will return recommendations, while POST requests will trigger the class recommendation based on the provided goods and services description.
 
