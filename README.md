@@ -1,5 +1,5 @@
 # Trademarkia-project
-AI Engineer Task -  Class Recommendation System
+AI Engineer Task -  Class Recommendation System(K-Nearest neighbour)
 
 Creating an AI model to recommend trademark classes based on goods and services entered by the user. The code utilizes the USPTO ID manual dataset and exposes a REST API for integration with flask framework.
 
